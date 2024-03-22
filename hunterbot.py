@@ -14,9 +14,11 @@ from functools import partial
 
 # ckeys format = {"your ckey", "your another ckey", etc...}
 
-# Alt ckey "e2d142-47fca8-09f38c-181f81"
+
 # Grid ckey "427ca1-6bcfa9-59a659-2218ac"
-ckeys = {"7a7309-748058-8caf28-fbba3e", "e2d142-47fca8-09f38c-181f81"} #, 
+# Arthur ckey "909f86-fcb1c9-f25957-0e520b"
+
+ckeys = {"7a7309-748058-8caf28-fbba3e", "909f86-fcb1c9-f25957-0e520b"} #, 
 
 def loopGames(player, stopFlag, firstExecution=True):
     if firstExecution:
